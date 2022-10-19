@@ -1,0 +1,15 @@
+section{
+    position: relative;
+    height: calc(82vh - 0.1rem);
+    max-width:90rem;
+    background: url(../img/home3.png) no-repeat top center / cover;
+    overflow: hidden;
+}
+h1{
+             
+            align-items: center;
+             color: #7e57c2;
+    
+}
+
+
